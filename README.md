@@ -1,6 +1,6 @@
 # surfs_up
 
-##OVERVIEW:
+## OVERVIEW:
   The purpose of this Analysis is to get W.Avey who is famous for his surfing, to believe and invest in my dream of having a Surf N' Shake Shop on the beautiful island of Oahu. Due to a past failed investment early in his career, W. Avey is a little reluctant to invest. I needed to win him over by analysing some weather data that he has from Oahu.
   
   ## JUNE RESULTS:
